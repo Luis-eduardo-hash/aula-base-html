@@ -1,0 +1,2 @@
+git config --global user.name Luis-eduardo-hash
+git config --global user.email luis53duardo@gmail.com
